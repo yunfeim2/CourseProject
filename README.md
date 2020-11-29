@@ -1,3 +1,5 @@
+(Provided source code is retrieved from https://github.com/CS410Fall2020/EducationalWeb)
+
 # EducationalWeb
 
 The following instructions have been tested with Python2.7 on Linux and MacOS
