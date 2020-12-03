@@ -1,6 +1,9 @@
+# Course Final Project for CS 410 Text Information Systems (Prof. Chengxiang Zhai)
+Team SN (196)
+Below is the source code.
 (Provided source code is retrieved from https://github.com/CS410Fall2020/EducationalWeb)
 
-# EducationalWeb
+## EducationalWeb
 
 The following instructions have been tested with Python2.7 on Linux and MacOS
 
