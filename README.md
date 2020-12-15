@@ -42,7 +42,7 @@ Main.py will be the user side code for this project
 We have not complete what we planned, we start educationweb and completely failed to installed. We switched to this sentimental analysis project for the paper instead. We have complete the project for giving feedbacks on the sentiment and giving scores for the sentimentals. We do not have the time to imporve the frontend which we planned to do initially. We may work on it later after the semester to make it a better one. 
 
 
-## Vedio presentation
+## Video presentation
 
 
 
