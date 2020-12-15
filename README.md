@@ -43,6 +43,9 @@ presentation vedio : https://mediaspace.illinois.edu/media/1_64gzbvp4
 ## Sources
 
 
-![Review data sets for "Latent Aspect Rating Analysis](http://sifaka.cs.uiuc.edu/~wang296/Data/index.html)http://sifaka.cs.uiuc.edu/~wang296/Data/index.html
-![Welcome to Hongning Wang's Homepage!](http://sifaka.cs.uiuc.edu/~wang296/)http://sifaka.cs.uiuc.edu/~wang296/
-![virginia](https://www.cs.virginia.edu/~hw5x/paper/p618.pdf)https://www.cs.virginia.edu/~hw5x/paper/p618.pdf
+![Review data sets for "Latent Aspect Rating Analysis](http://sifaka.cs.uiuc.edu/~wang296/Data/index.html)
+http://sifaka.cs.uiuc.edu/~wang296/Data/index.html
+![Welcome to Hongning Wang's Homepage!](http://sifaka.cs.uiuc.edu/~wang296/)
+http://sifaka.cs.uiuc.edu/~wang296/
+![virginia](https://www.cs.virginia.edu/~hw5x/paper/p618.pdf)
+https://www.cs.virginia.edu/~hw5x/paper/p618.pdf
