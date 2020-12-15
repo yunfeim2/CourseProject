@@ -1,32 +1,60 @@
 # Course Final Project for CS 410 Text Information Systems (Prof. Chengxiang Zhai)
 ### Team SN (196)
 
-Below is the source code.
-(Provided source code is retrieved from https://github.com/CS410Fall2020/EducationalWeb)
+Yunfei Ma, Zhanyuan Ye, Bojiang Li
 
-## Updated Project 
-..
+# Course project
 
-## Following is the original project before the topic change.
-### EducationalWeb
+This project is a app to help student improve student reading and writing ability by sentimental and keywork analysis
 
-The following instructions have been tested with Python2.7 on Linux and MacOS
+The source is provided in **web**
 
-1. You should have ElasticSearch installed and running -- https://www.elastic.co/guide/en/elasticsearch/reference/current/targz.html
 
-2. Create the index in ElasticSearch by running `python create_es_index.py` from `EducationalWeb/`
+## Software installation
 
-3. Download tfidf_outputs.zip from here -- https://drive.google.com/file/d/19ia7CqaHnW3KKxASbnfs2clqRIgdTFiw/view?usp=sharing
-   
-   Unzip the file and place the folder under `EducationalWeb/static`
 
-4. Download cs410.zip from here -- https://drive.google.com/file/d/1Xiw9oSavOOeJsy_SIiIxPf4aqsuyuuh6/view?usp=sharing
-   
-   Unzip the file and place the folder under `EducationalWeb/pdf.js/static/slides/`
-   
-5. From `EducationalWeb/pdf.js/build/generic/web` , run the following command: `gulp server`
+First install the azure coginitive services package service.
 
-6. In another terminal window, run `python app.py` from `EducationalWeb/`
 
-7. The site should be available at http://localhost:8096/
+Then direct run 
+
+```
+python textanalysis.py
+```
+
+The result will be rendered in textanalyticresult.docx
+
+
+
+##  Result of the project
+
+In the rendered, according to every sentence, it will give a score to the phrase. Sentimental analysis will be given to each one of sentences. The high scores on both positive and negetive will be noticed because it does not follow the require neutral tone of the essay.
+
+050B.docx is the sample file we test for the sentimental analysis.
+
+For grammercheck.py, it is the code for checking the right wording for the whole paper.
+
+Main.py will be the user side code for this project
+
+
+## Discussion
+
+We have not complete what we planned, we start educationweb and completely failed to installed. We switched to this sentimental analysis project for the paper instead. We have complete the project for giving feedbacks on the sentiment and giving scores for the sentimentals. We do not have the time to imporve the frontend which we planned to do initially. We may work on it later after the semester to make it a better one. 
+
+
+## Vedio presentation
+
+
+
+## Sources
+
+
+- ![azure grammer](https://docs.microsoft.com/en-us/office/troubleshoot/word/spelling-grammar-checker-underline-color)
+- https://docs.microsoft.com/en-us/office/troubleshoot/word/spelling-grammar-checker-underline-color
+- ![Use Sentiment Analysis With Python to Classify Movie Reviews](https://realpython.com/sentiment-analysis-python/)
+- https://realpython.com/sentiment-analysis-python/
+- ![How To Perform Sentiment Analysis in Python 3 Using the Natural Language Toolkit (NLTK)](https://www.digitalocean.com/community/tutorials/how-to-perform-sentiment-analysis-in-python-3-using-the-natural-language-toolkit-nltk)
+- https://www.digitalocean.com/community/tutorials/how-to-perform-sentiment-analysis-in-python-3-using-the-natural-language-toolkit-nltk
+- ![nlp sentiment](https://stackabuse.com/python-for-nlp-sentiment-analysis-with-scikit-learn/)
+- https://stackabuse.com/python-for-nlp-sentiment-analysis-with-scikit-learn/
 
