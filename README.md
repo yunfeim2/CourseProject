@@ -28,6 +28,7 @@ python key_generator.py
 
 the stopwords.txt is for the stop work that will like occur in all kinds of documents. Therefore we ignore the exsitence of the those words to produce a better keyword collection.
 
+After that, download the NLP from https://opennlp.apache.org/ to install and put the enviromental variable to path to the folder you installed
 
 
 Next, we should using java platform to run the analyse.java under src and the final result of the hotel data will be listed under vectors folder in vector_CHI_4000.dat
