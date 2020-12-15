@@ -38,6 +38,6 @@ Next, we should using java platform to run the analyse.java under src and the fi
 ## Sources
 
 
-![](http://sifaka.cs.uiuc.edu/~wang296/Data/index.html)
-![](http://sifaka.cs.uiuc.edu/~wang296/)
-![](https://www.cs.virginia.edu/~hw5x/paper/p618.pdf)
+![Review data sets for "Latent Aspect Rating Analysis](http://sifaka.cs.uiuc.edu/~wang296/Data/index.html)
+![Welcome to Hongning Wang's Homepage!](http://sifaka.cs.uiuc.edu/~wang296/)
+![virginia](https://www.cs.virginia.edu/~hw5x/paper/p618.pdf)
