@@ -34,6 +34,10 @@ After that, download the NLP from https://opennlp.apache.org/ to install and put
 Next, we should using java platform to run the analyse.java under src and the final result of the hotel data will be listed under vectors folder in vector_CHI_4000.dat
 
 
+##
+
+presentation vedio : https://mediaspace.illinois.edu/media/1_64gzbvp4
+
 
 
 ## Sources
